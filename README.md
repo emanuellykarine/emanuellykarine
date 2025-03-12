@@ -1,16 +1,23 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**emanuellykarine/emanuellykarine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Técnica em informática pelo IFRN - SGA | Atualmente cursando Análise e Desenvolvimento de Sistemas pelo IFRN - CNAT.
 
-Here are some ideas to get you started:
+##
+<div align="center">
+  <a href="https://github.com/emanuellykarine">
+    <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellykarine&layout=compact&langs_count=7&theme=dark&bg_color=212830&border_color=212830"/>
+    <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=emanuellykarine&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=212830&border_color=212830"/>
+  </a>
+</div> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Tools and Technologies:**
+<div style= "display: inline" >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>     
+</div>
+
+
