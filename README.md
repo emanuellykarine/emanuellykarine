@@ -3,7 +3,7 @@
 🔭 Técnica em informática pelo IFRN - SGA | Atualmente cursando Análise e Desenvolvimento de Sistemas pelo IFRN - CNAT.
 
 ##
-<div align="center">
+<div>
   <a href="https://github.com/emanuellykarine">
     <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuellykarine&layout=compact&langs_count=7&theme=dark&bg_color=212830&border_color=212830"/>
   </a>
